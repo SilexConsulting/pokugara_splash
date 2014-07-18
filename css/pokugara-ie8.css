@@ -1,0 +1,15 @@
+.intro {
+  width: 400px;
+  background-size: contain ;
+  height: 400px;
+  margin: auto;
+  background-image: none;
+}
+.intro-text {
+  font-size: 25px;
+  margin-top: 500px;
+  margin: auto;
+}
+.navbar-brand {
+  font-size: 16px;
+}
